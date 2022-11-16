@@ -1,0 +1,7 @@
+v1.0.1 (Dec 15, 2021)
+-Improvements
+v1.0.2 (Dec 19, 2021)
+-Changed architecture to 64-bit
+-Fixed error of restoring compressed database above from 60+MB
+v1.0.3 (Dec 22, 2021)
+-Fixed Usufruct Information - Payment History
