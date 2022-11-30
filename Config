@@ -8,5 +8,14 @@
         "update_description": "Fixed Usufruct Information - Payment History",
         "force": true,
         "change_log_link": "https://raw.githubusercontent.com/rjay153/PUBLIC/main/ChangeLog"
+    },
+    "CHAUpdates":
+    {
+        "name": "cha_v1.zip",
+        "version": "1",
+        "downloadlink": "https://drive.google.com/uc?export=download&id=1yYrnCIOigZgZKHcMMzqcGILsztrOut3h",
+        "update_description": "Chancery System Improvements",
+        "force": true,
+        "change_log_link": "https://raw.githubusercontent.com/rjay153/PUBLIC/main/ChangeLog"
     }
 }
