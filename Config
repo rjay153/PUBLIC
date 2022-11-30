@@ -15,7 +15,7 @@
         "version": "1",
         "downloadlink": "https://drive.google.com/uc?export=download&id=1zJ7FjZkwCyJjANHidyTPhBoKXv23m3Q2",
         "update_description": "Chancery System Improvements",
-        "force": true,
+        "force": false,
         "change_log_link": "https://raw.githubusercontent.com/rjay153/PUBLIC/main/ChangeLog"
     }
 }
