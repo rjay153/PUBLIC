@@ -4,7 +4,7 @@
     {
         "name": "rcbk_v1.0.3.zip",
         "version": "1.0.3",
-        "downloadlink": "https://drive.google.com/uc?export=download&id=1yYrnCIOigZgZKHcMMzqcGILsztrOut3h",
+        "downloadlink": "https://drive.google.com/uc?export=download&id=1zJ7FjZkwCyJjANHidyTPhBoKXv23m3Q2",
         "update_description": "Fixed Usufruct Information - Payment History",
         "force": true,
         "change_log_link": "https://raw.githubusercontent.com/rjay153/PUBLIC/main/ChangeLog"
@@ -13,7 +13,7 @@
     {
         "name": "cha_v1.zip",
         "version": "1",
-        "downloadlink": "https://drive.google.com/uc?export=download&id=1yYrnCIOigZgZKHcMMzqcGILsztrOut3h",
+        "downloadlink": "https://drive.google.com/uc?export=download&id=1zJ7FjZkwCyJjANHidyTPhBoKXv23m3Q2",
         "update_description": "Chancery System Improvements",
         "force": true,
         "change_log_link": "https://raw.githubusercontent.com/rjay153/PUBLIC/main/ChangeLog"
